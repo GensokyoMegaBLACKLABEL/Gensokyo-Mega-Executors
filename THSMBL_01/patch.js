@@ -4,10 +4,10 @@
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order"
 	],
-	"id": "THBL_01",
+	"id": "THMSBL_01",
 	"servers": [
-		"https://mirrors.thpatch.net/Gensokyo.EXE/THBL_01/"
+		"https://raw.githubusercontent.com/GensokyoMegaBLACKLABEL/Gensokyo-Mega-Executors/master/"
 	],
-	"title": "Touhou Black Label 01 - Desire.EXE",
+	"title": "Touhou Super Mega Black Label 01 - Desire.EXE Rank: Extreme Mode",
 	"update": true
 }
